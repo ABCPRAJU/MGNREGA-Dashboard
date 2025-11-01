@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/performance/fetch";
+const API_URL = "https://mgnrega-dashboard-1wxj.onrender.com/performance/fetch";
 
 // Select main elements
 const stateSelect = document.getElementById("stateSelect");
